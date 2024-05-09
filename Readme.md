@@ -1,4 +1,11 @@
-Imersão IA: Alura e Google - Uma Jornada Detalhada na Inteligência Artificial
+
+#Imersão IA: Alura e Google - Uma Jornada Detalhada na Inteligência Artificial
+
+<p align="center">
+  <img src="https://github.com/AngeloSouza1/Imers-o-Alura-IA/blob/main/Blue%20Modern%20Artificial%20Intelligence%20Technology%20Logo.png" alt="Logo"  >
+</p>
+
+
 Visão Geral
 ---
 
