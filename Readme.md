@@ -74,6 +74,25 @@ Com convicção, recomendo a Imersão IA: Alura e Google a todos que desejam se 
 
 ---
 
-### Desafio 1  - Exemplo de Código Ruby
+### Aula 1 - Desafio 1  - Exemplo de Código Ruby
+<p align="center">
+  <img src="https://github.com/AngeloSouza1/Imersao-Alura-IA/blob/main/images%20desafios/p1.png" alt="Logo"  >
+  <img src="https://github.com/AngeloSouza1/Imersao-Alura-IA/blob/main/images%20desafios/p7.png" alt="Logo"  >
+  <img src="https://github.com/AngeloSouza1/Imersao-Alura-IA/blob/main/images%20desafios/p3.png" alt="Logo"  >
+  <img src="https://github.com/AngeloSouza1/Imersao-Alura-IA/blob/main/images%20desafios/p4.png" alt="Logo"  >
+  <img src="https://github.com/AngeloSouza1/Imersao-Alura-IA/blob/main/images%20desafios/p6.png" alt="Logo"  >
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
