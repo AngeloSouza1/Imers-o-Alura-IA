@@ -75,6 +75,7 @@ Com convicção, recomendo a Imersão IA: Alura e Google a todos que desejam se 
 ---
 
 ### Aula 1 - Desafio 1  - Exemplo de Código Ruby
+#### Criação de um código solicitado peça IA
 <p align="center">
   <img src="https://github.com/AngeloSouza1/Imersao-Alura-IA/blob/main/images%20desafios/p1.png" alt="Logo"  >
   <img src="https://github.com/AngeloSouza1/Imersao-Alura-IA/blob/main/images%20desafios/p7.png" alt="Logo"  >
@@ -84,7 +85,10 @@ Com convicção, recomendo a Imersão IA: Alura e Google a todos que desejam se 
 </p>
 
 ### Aula 2 - Desafio 2  - Exemplo Planilha De Acessos
-
+#### Pesquisa dos dados acessados pelo usuário e análise destes dados de acordo com o tempo de uso
+<p align="center">
+  <img src="https://github.com/AngeloSouza1/Imersao-Alura-IA/blob/main/planiestudo.png" alt="Logo"  >
+ </p>
 
 
 
